@@ -1,4 +1,1 @@
-hello world;
-this is a good
-fdkj
-git is free software distributed under the GpL;
+这是一个智慧树刷课插件，可以自动播放。
